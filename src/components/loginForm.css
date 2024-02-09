@@ -1,0 +1,19 @@
+.container {
+    width: 400px;
+} 
+.remeber {
+    margin: 15px 0 15px;
+    font-size: 14.5px;
+}
+.forgot-password {
+    text-decoration: none;
+}
+.forgot-password:hover {
+    text-decoration: underline;
+}
+.register a {
+    text-decoration: none;
+}
+.register a:hover {
+    text-decoration: underline;
+}
